@@ -272,35 +272,4 @@
         }
     }
 
-#如果对该库有疑问或者有bug
 
-欢迎大家提Issues，或者加QQ。楼主很乐意为你们解决问题。
-	
-#关于我
-
-我是个流浪在广东珠海的小开发贼，喜欢玩暗影岛的虚拟世界中寻找自我（实则是个坑，如果有时间可以加个好友带带我）
-
-技术交流群:453177748
-
-喜欢楼主的都可以加个朋友（ps：加的时候记得加上备注，为什么要加楼主，否则莫怪我残忍拒绝了）
-
-#我的另外个开源库，喜欢的给个star
-
-[SuperRecycleView](https://github.com/supercwn/SuperRecycleView)
-
-
-#License
-
-	Copyright 2016 supercwn
-
-	Licensed under the Apache License, Version 2.0 (the "License");
-	you may not use this file except in compliance with the License.
-	You may obtain a copy of the License at
-	
-	   http://www.apache.org/licenses/LICENSE-2.0
-	
-	Unless required by applicable law or agreed to in writing, software
-	distributed under the License is distributed on an "AS IS" BASIS,
-	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-	See the License for the specific language governing permissions and
-	limitations under the License.*
