@@ -288,11 +288,6 @@
 
 [SuperRecycleView](https://github.com/supercwn/SuperRecycleView)
 
-#打赏支持
-如果该库帮助到了你，为你减少了开发的时间，请随意打赏。您的支持将鼓励我继续创作！
-
-![change](https://github.com/supercwn/SuperPlayer/blob/master/gif/wechat.png)
-
 
 #License
 
